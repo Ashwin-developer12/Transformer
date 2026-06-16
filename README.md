@@ -25,14 +25,14 @@ Road safety is a critical concern, and effective communication plays a vital rol
 * Implement a mechanism for extracting location-specific safety recommendations from translated text.
 * Provide a user-friendly way to access and utilize this location-based safety information.
 
-## Future Work (Optional)
+## Future Work 
 
 * Improve the LLM's performance through further training and optimization.
 * Explore different data sources for road safety information.
 * Develop a mobile application or web interface for wider accessibility.
 * Integrate with mapping services for more precise location-based information.
 
-## Getting Started (Optional - Add if you plan to make the code public)
+## Getting Started 
 
 ```bash
 # Example setup commands
